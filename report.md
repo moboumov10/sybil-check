@@ -1,3 +1,5 @@
+This report is available on GitHub : https://github.com/moboumov10/sybil-check/blob/main/report.md
+
 
 # Description
 
